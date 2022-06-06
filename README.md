@@ -1,1 +1,2 @@
 # Publitas-QA-Challenge
+Write an automated regression test for the bug you identified in part 1. The test should currently fail and pass once the problem is addressed. You can use any test framework you like as long as it is able to test this site in a real browser.
